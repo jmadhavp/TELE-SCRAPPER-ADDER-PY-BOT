@@ -481,6 +481,6 @@ Good luck, and remember: **Safety first, growth second!**
 
 ---
 
-**Made with ⚡ by AI Assistant**
+**Made with ⚡ by MJ PROGRAMMERS**
 **For: Your Telegram Automation Needs**
 **Date: October 23, 2025**
